@@ -65,6 +65,9 @@ yarn add -D tailwind-styled-components
 
 *⚠️ This extension requires TailwindCSS to be installed and configured on your project too. [Install TailwindCSS](https://tailwindcss.com/docs/installation)*
 
+*⚠️ This extension also requires styled-components to be installed. [Install styled-components](https://styled-components.com/docs/basics#installation)*
+
+
 #### [Optional] Configure IntelliSense autocomplete on VSCode
 
 First, install Tailwind CSS IntelliSense VSCode extension
